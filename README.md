@@ -47,3 +47,7 @@ __Member__:
 - Kaylee
 - Tamar (eventually?)
 - Anyone else?
+
+## Other things that need to happen: 
+- [ ] Set rules on all master branches to require a reviewer
+- []
