@@ -50,4 +50,3 @@ __Member__:
 
 ## Other things that need to happen: 
 - [ ] Set rules on all master branches to require a reviewer
-- []  
