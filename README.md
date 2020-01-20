@@ -51,5 +51,6 @@ __Member__:
 ## Other things that may need to happen: 
 - [ ] Set rules on all master branches to require a reviewer
 - [ ] Set up code owners? 
-- [ ] Dismiss stale pull request approvals when new commits are pushed 
+- [ ] Dismiss stale pull request approvals when new commits are pushed?
 - [ ] Restrict who can dismiss pull request reviews?
+  
