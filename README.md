@@ -53,4 +53,4 @@ __Member__:
 - [ ] Set up code owners? 
 - [ ] Dismiss stale pull request approvals when new commits are pushed?
 - [ ] Restrict who can dismiss pull request reviews?
-  
+- [ ] Branch protection for assessment repos? 
